@@ -1,3 +1,6 @@
 {
-  "minVersion": "1.0"
+  "minVersion": "1.2.3",
+  "force": true,
+  "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.vicenteventura.c1caeapp"
 }
+
